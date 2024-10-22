@@ -1,3 +1,9 @@
+# 运行方式
+
+npm install koa koa-static
+
+node .\static-server\index.js
+
 # nice-func
 
 尝试实现一些让人耳目一新、感觉很 nice 的网页内容、动效
